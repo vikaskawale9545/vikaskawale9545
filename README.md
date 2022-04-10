@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @vikaskawale9545
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m vikas kawale
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning Microsoft Technologies
+- 💞️ I’m looking to collaborate on AI & ML
+- 📫 How to reach me Vikaskawale9545@gmail.com
 
 <!---
 vikaskawale9545/vikaskawale9545 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
